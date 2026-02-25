@@ -1,8 +1,8 @@
 ## Hey 👋
 
-我是 Russell，坐标烟台，写代码主要是为了解决自己遇到的问题。
+我是 Russell，写代码主要是为了解决自己遇到的问题。
 
-平时用 Go 比较多，偶尔写写前端和折腾运维的东西。
+平时用 Go 比较多，也写 Python 和前端，喜欢折腾基础设施和自动化。
 
 ---
 
@@ -17,8 +17,11 @@
 
 #### 技术栈
 
-`Go` `PHP` `MySQL` `Docker` `Linux` `Wails` `Gin`
+`Go` `Python` `PHP` `MySQL` `Docker` `Linux` `Wails` `Gin`
 
 ---
 
-<sub>写代码是副业，搞钱才是正经事。</sub>
+```text
+$ cat /dev/urandom | head -c 32 | base64
+# 能跑就不要动，能自动化就不要手动
+```
