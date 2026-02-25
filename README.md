@@ -24,6 +24,7 @@ I build tools to solve problems I run into — mostly backend services, desktop 
 |---------|-------------|-------|
 | **[FuckYourACE](https://github.com/xiaoxinmm/FuckYourACE)** | Tames ACE anti-cheat processes hogging your CPU | `Go` `Wails` |
 | **[Student-Union-Violation](https://github.com/xiaoxinmm/Student-Union-Violation)** | Violation tracking system, one-click Docker deploy | `Go` `Gin` `MySQL` |
+| **[sysmon](https://github.com/xiaoxinmm/sysmon)** | Lightweight system monitor, single binary, real-time WebSocket dashboard | `Go` `WebSocket` |
 
 ---
 
