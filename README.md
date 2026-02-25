@@ -1,27 +1,29 @@
 ## Hey 👋
 
-我是 Russell，写代码主要是为了解决自己遇到的问题。
+I'm Russell. I build things to scratch my own itch.
 
-平时用 Go 比较多，也写 Python 和前端，喜欢折腾基础设施和自动化。
-
----
-
-#### 造过的轮子
-
-| 项目 | 简介 | 语言 |
-|------|------|------|
-| [FuckYourACE](https://github.com/xiaoxinmm/FuckYourACE) | 降低 ACE 反作弊后台进程资源占用的桌面工具（Wails） | Go |
-| [Student-Union-Violation](https://github.com/xiaoxinmm/Student-Union-Violation) | 学生会违纪管理系统，Docker 一键部署 | Go / MySQL |
+Mostly writing Go these days, along with Python and some frontend work. Big fan of automating everything and over-engineering stuff that probably didn't need it.
 
 ---
 
-#### 技术栈
+#### Open Source
+
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [FuckYourACE](https://github.com/xiaoxinmm/FuckYourACE) | Tames ACE anti-cheat background processes hogging your CPU | Go / Wails |
+| [Student-Union-Violation](https://github.com/xiaoxinmm/Student-Union-Violation) | Violation tracking system for student unions, one-click Docker deploy | Go / Gin / MySQL |
+
+> *The good stuff is in private repos. You don't get to see those. 😏*
+
+---
+
+#### Toolbox
 
 `Go` `Python` `PHP` `MySQL` `Docker` `Linux` `Wails` `Gin`
 
 ---
 
-```text
+```
 $ cat /dev/urandom | head -c 32 | base64
-# 能跑就不要动，能自动化就不要手动
+# if it works, don't touch it. if it can be automated, don't do it manually.
 ```
