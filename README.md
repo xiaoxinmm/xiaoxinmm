@@ -27,21 +27,4 @@ I build tools to solve problems I run into — mostly backend services, desktop 
 
 ---
 
-### Stats
-
-<p align="center">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=xiaoxinmm&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoxinmm&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
-
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=xiaoxinmm&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" width="95%"/>
-</p>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=xiaoxinmm&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="52%"/>
-</p>
-
----
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer" alt="footer"/>
