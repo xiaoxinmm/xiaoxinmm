@@ -14,7 +14,7 @@ I build tools to solve problems I run into — mostly backend services, desktop 
 
 ### Toolbox
 
-[![My Skills](https://skillicons.dev/icons?i=go,python,pycharm,sqlite,vscode,vue,php,mysql,gcp,azure,vim,cloudflare,,prometheus,java,idea,kali,,docker,linux,git,github,nginx,html,css,js&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,python,pycharm,sqlite,vscode,vue,php,mysql,gcp,azure,vim,cloudflare,prometheus,java,idea,kali,docker,linux,git,github,nginx,html,css,js&perline=6)](https://skillicons.dev)
 
 ---
 
